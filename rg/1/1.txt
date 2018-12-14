@@ -1,6 +1,6 @@
-﻿agnimIDepurohitamyajJasyadevam hotaraMratnadhAtamam
+﻿agnimIDepurohitaMyajJasyadevam hotaraMratnadhAtamam
 agnim IDe purohitam yajJasya devam hotaram ratnadhAtamam
-アグニを私は称賛する.祭の大祭官を,神を,hotR祭官を,最も富を与えるものを.
+アグニを私は称賛する.祭の大祭官を,神を,最も富を与える詠唱祭官を.
 IDe ID(賞賛する)の直説法現在反射態一人称単数形
 ratna(財宝)-dhA(与える)-tama(最上級)
 
@@ -32,3 +32,19 @@ vizvatas 四方に
 pari(あまねく)bhU(ある) 取り巻く
 id 全く
 gam 処格に達する
+
+agnirhotAkavikratuHsatyazcitrazravastamaH devodevebhirAgamat
+agniH hotA kavikratuH satyaH citrazravastamaH devaH devebhiH Agamat
+賢明な真の詠唱祭官アグニは最大の称賛に値する.その神は神々に達した.
+kavi(賢い)-kratu(知恵)
+citra(明かな)zravas(称賛)tama(最上級) 最大の称賛に値する
+A-gam 具格に達する Agamat(アオリスト能動態三人称単数)
+
+yadaGgadAzuSetvamagnebhadraMkariSyasi tavettatsatyamaGgiraH
+yad aGga-dAzuSe tvam agne bhadram kariSyasi tavet tat satyam aGgiraH
+神に使えるもののためのアグニよ,あなたは偉業をなすだろう.それは真実である.神の使者よ.
+aGga 部分,男根,体,要素
+dAzvas 神に仕えるもの
+bhadra 称賛すべきこと
+tavet?
+aGgiras 神の使者
