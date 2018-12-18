@@ -34,3 +34,54 @@ urUcI somapItaye
 広大な御神酒の一飲み
 urUcI uruvyac(広大な)の女性単数主格
 somapIti ソーマの一飲み(常に為格)
+
+indravAyU ime sutA upa parayobhir Agatam
+雷神風神よ,これら絞り出されたるは満足と共に来たものを.
+indravAyU indravAyu双数呼格
+ime idam(これ)男性複数主格
+sutAH su(絞る)の過去受動分詞男性複数主格
+upa 具格とともに
+parayobhiH paraya(満足)の複数具格?
+Agatam A-gam(来る)の過去受動分詞男性単数対格
+
+indavo vAm uzanti hi
+汁たちは実に汝等二人を欲す.
+indavaH indu(汁)の男性複数主格
+vAm 代名詞二人称両数対格
+uzanti vaz(欲す)の現在能動分詞中性複数主格
+hi 強調を表す
+
+vAyavindrazca cetathaH sutANAM vAjinIvasU
+駿馬を有する汝風神雷神は絞られたるものたちを熱望する.
+cetathaH cit(属格を熱望する)の第一類現在語幹直説法現在能動態二人称双数
+sutANAm su(絞る)の過去受動分詞複数属格
+vAjinIvasU vAjinIvasu(駿馬を有する)双数主格
+
+tAvA yAtam upa dravat
+あなたの行き,そして走るを.
+tAvA 代名詞二人称単数属格?
+yAtam yA(行く)の過去受動分詞中性単数主格
+dravat dru(走る)の第一類現在語幹現在能動分詞中性単数主格
+
+vAyavindrazca sunvata AyAtam upa niSkRtam
+風神雷神は御神酒供犠者から来たものを,贖われたものを.
+sunvat ソーマの供犠者
+AyAtam A-yA(来る)の過去受動分詞単数対格
+niS-kR 贖う
+
+makSv itthA dhiyA narA
+二人の男の速やかに正しい思考を
+makSU 速やかな
+itthA 正しく
+dhiyA dhI(思考)双数対格
+narA nR(男)双数対格
+
+mitraM huve pUtadakSaM varuNaM ca rizAdasam
+清浄な意力を持つミトラを私は呼ぶ.財宝を管理するヴァルナも.
+mitraM mitra単数対格
+huve hu(呼ぶ)第二類現在語幹直説法現在反射態一人称単数
+pUtadakSa pU(清める)-ta(過去受動分詞)-dakSa(意志)
+rizAdasa 財宝を管理する
+
+dhiyaM ghRtAcIM sAdhantA
+
