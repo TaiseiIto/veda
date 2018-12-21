@@ -84,4 +84,31 @@ pUtadakSa pU(清める)-ta(過去受動分詞)-dakSa(意志)
 rizAdasa 財宝を管理する
 
 dhiyaM ghRtAcIM sAdhantA
+達成する2人は蘇油に富んだ思考を
+dhiyam dhI(思考)単数対格
+ghRtAcI 蘇油
+sAdhantA sAdh(達成する)の第一類現在語幹現在能動分詞男性双数主格
 
+Rtena mitrAvaruNAv RtAvRdhAv RtaspRzA
+真理によって真理を増大させるミトラとヴァルナは真理に達する
+Rtena Rta(真理)単数具格
+RtAvrdhau RtA(真理を)vrdh(増大させる) 男性双数主格
+RtaspRzA Rta(真理に)spRz(触れる,達する) 男性双数主格
+
+kratum bRhantam AzAthe
+力強くする力にあなたたち二人は到達する.
+kratum kratu(力)男性単数対格
+bRhantam brh(力強くする)第六類現在語幹現在能動分詞男性単数対格
+AzAthe az(到達する)第二類現在語幹直説法現在反射態二人称双数
+
+kavI no mitrAvaruNA tuvijAtA urukSayA
+賢き我らがミトラとヴァルナは力強き生まれにして広大な住処を持つ.
+kavI kavi(賢い)男性双数主格
+tuvijAtA tuvi(力強い)jan(生まれる)ta(過去受動分詞)男性双数主格
+urukSayA uru(広大な)kSaya(住居)男性双数主格
+
+dakSam dadhAte apasam
+彼ら二人は有能な行動を置く.
+dakSam dakSa(可能な,有能な,能動的な)中性単数対格
+apasam apas(行動)中性単数対格
+dadhAte dhA(置く)第三類現在語幹直説法現在反射態三人称双数
