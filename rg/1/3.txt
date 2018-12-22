@@ -1,0 +1,37 @@
+﻿azvinA yajvarIr iSo dravatpANI zubhaspatI
+アシュヴィン双神よ,敬虔な汁たちを,走り手よ,光輝の主よ.
+azvinA 名詞azvin(アシュヴィン双神)双数呼格
+yajvarIH 形容詞yajvan(敬虔な)女性複数対格
+iSaH 女性名詞iS(汁)複数対格
+dravat 動詞dru(走る)第一類現在語幹現在能動分詞
+pANI 男性名詞pANi(手)双数呼格
+zubhaspatI 男性名詞zubhaspati(光輝の主)双数呼格
+
+purubhujAcanasyatam
+多くの手を持つ二柱は喜ぶ.
+putu 多い
+bhujA 男性名詞bhuja(腕)双数主格
+canasyatam canasya(喜ぶ)能動態二人称双数
+
+azvinA purudaMsasA narA zavIrayA dhiyA
+アシュヴィン双神よ,多くの驚嘆を持つものよ,人間よ,強力な思考によって.
+daMsas 驚嘆?
+zavIrayA 形容詞zavIra(強力な)女性単数具格
+
+dhiSNyA vanataM giraH
+汝等二人は霊感を促す賛歌を好む.
+dhuSNyAH 形容詞dhiSNya(霊感を促す)女性複数対格
+vanatam 動詞van(好む)第一類現在語幹直説法現在能動態二人称双数
+giraH 女性名詞gir(賛歌)複数対格
+
+dasrA yuvAkavaH sutA nAsatyA vRktabarhiSaH
+奇跡を行う汝等両神に属する絞られたるものたちよ,ナーサティアのための抜かれたる祭壇の敷草たちよ.
+dasrA 形容詞dasra(奇跡を行う)複数主格
+yuvAkavaH 形容詞yuvAku(汝等両者に属する)複数主格
+vRkta 動詞vRj((祭壇用の草を)抜く)過去受動分詞
+barhiSaH 男性名詞barhis(祭壇の敷草)複数主格
+
+AyAtaM rudravartanI
+二柱のルドラヴァルタニは近づく.
+AyAtam 動詞A-yA(接近する)第二類現在語幹直説法現在能動態二人称双数
+rudravartanI 男性名詞rudravartani(アシュヴィン双神の別名)双数主格
