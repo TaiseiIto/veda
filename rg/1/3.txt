@@ -35,3 +35,27 @@ AyAtaM rudravartanI
 汝等二柱のルドラヴァルタニはやって来い.
 AyAtam 動詞A-yA(接近する)第二類現在語幹命令法能動態二人称双数
 rudravartanI 男性名詞rudravartani(アシュヴィン双神の別名)双数主格
+
+indrA yAhi citrabhAno sutA ime tvAyavaH
+インドラよ,進め.光り輝くものよ.これら搾り出されたるものは汝を待望する.
+indrA 男性名詞indra(雷神)単数呼格?
+yAhi 動詞yA(進む)第二類現在語幹命令法能動態二人称単数
+citrabhAno 形容詞citrabhAnu(輝く)男性単数呼格
+sutAH 動詞su(絞りだす)過去受動分詞男性複数主格
+ime 指示代名詞ima(この)男性複数主格
+tvAyavaH 形容詞tvAyu(汝を待つ)男性複数主格
+
+aNvIbhis tanA pUtAsaH
+指によって次々に清められた.
+aNvIbhiH 女性形容詞aNvI(指)複数具格
+tanA 女性名詞tan(接続)単数具格(連続して,次々に)
+pUtA 動詞pU(清める)過去受動分詞女性単数主格
+saH ?
+
+indrA yAhi dhiyeSito viprajUtaH sutAvataH
+インドラよ,進め.思考によって動かされ,鼓舞された賢者は搾り出した者たちを.
+dhiyA 女性名詞dhI(思考)単数具格
+iSitaH 動詞iS(動かす)過去受動分詞男性単数主格
+形容詞vipra(賢明な)
+jUtaH 動詞jU(鼓舞する)過去受動分詞男性単数主格
+sutAvataH 動詞su(搾り出す)過去能動分詞男性複数対格
