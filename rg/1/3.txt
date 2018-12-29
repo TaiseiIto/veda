@@ -59,3 +59,14 @@ iSitaH 動詞iS(動かす)過去受動分詞男性単数主格
 形容詞vipra(賢明な)
 jUtaH 動詞jU(鼓舞する)過去受動分詞男性単数主格
 sutAvataH 動詞su(搾り出す)過去能動分詞男性複数対格
+
+upa brahmANi vAghataH
+またブラフマン等は供犠者たちを.
+upa また
+brahmANi 中性名詞brahman複数主格
+vAdhataH 男性名詞vAghat(供犠者)複数対格
+
+indrA yAhi tUtujAna upa brahmANi harivaH
+インドラよ,進め.促すものは,またブラフマンたちは
+tUtujAnaH 動詞tuj(促す)第三類現在語幹現在反射分詞男性単数主格
+harivaH ?
