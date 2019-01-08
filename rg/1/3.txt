@@ -70,3 +70,19 @@ indrA yAhi tUtujAna upa brahmANi harivaH
 インドラよ,進め.促すものは,またブラフマンたちは
 tUtujAnaH 動詞tuj(促す)第三類現在語幹現在反射分詞男性単数主格
 harivaH ?
+
+sute dadhiSv anaz ca naH
+sute 動詞su(搾る)過去受動分詞単数処格
+dadhiSu 中性名詞dadhi(酸乳)複数処格
+anaH 三人称代名詞ana男性単数主格
+搾られたものにおいて,酸乳たちにおいて,これも我等のために.
+
+omA sazcarSaNIdhRto vizve devAsa A gata
+汝は助力によって追え,所有せよ.来たものよ.
+omA 男性名詞oman(助力)単数主格or具格
+sazca 動詞現在語幹sazca(追う)命令法能動態二人称単数
+RSaNI ?
+dhRtaH 動詞dhR(所有する)過去受動分詞男性単数主格
+vizve 形容詞visva(全ての)男性複数主格
+devAsaH ?
+Agata 動詞A-gam(来る)過去受動分詞単数呼格
