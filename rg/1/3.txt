@@ -77,12 +77,82 @@ dadhiSu 中性名詞dadhi(酸乳)複数処格
 anaH 三人称代名詞ana男性単数主格
 搾られたものにおいて,酸乳たちにおいて,これも我等のために.
 
-omA sazcarSaNIdhRto vizve devAsa A gata
-汝は助力によって追え,所有せよ.来たものよ.
+omA sazcarSaNIdhRto vizve devAsa Agata
+汝は助力によって追え,全ての所有し来たものよ.
 omA 男性名詞oman(助力)単数主格or具格
 sazca 動詞現在語幹sazca(追う)命令法能動態二人称単数
 RSaNI ?
 dhRtaH 動詞dhR(所有する)過去受動分詞男性単数主格
 vizve 形容詞visva(全ての)男性複数主格
-devAsaH ?
+devAsaH deva+Asa(神に近い者)?
 Agata 動詞A-gam(来る)過去受動分詞単数呼格
+
+dAzvAMso dAzuSaH sutam
+神に仕えた者たちは神に仕える者から搾り出されたるもの(ソーマ)を(受け取れ?).
+dAzvAMsaH 動詞dAz(神に仕える)完了分詞男性複数主格or呼格
+dAzuSaH 動詞dAz(神に仕える)完了分詞男性or中性単数従格or属格
+sutam 動詞su(搾り出す)過去受動分詞男性単数対格or中性単数主格or対格
+
+vizve devAso apturaH sutamA ganta tUrNayaH
+全ての,活発なる,最も良き,速やかなるものたちよ.
+vizve 形容詞vizva(全ての)男性複数呼格
+devAsaH 男性名詞devAsa(神に近いもの)単数呼格
+apturaH 形容詞aptur(活発なる,勝利の)男性複数呼格
+sutamA 副詞su(よく)最上級男性複数呼格
+ganta ?
+tUrNayaH 形容詞tUrni(速やかなる)男性複数呼格
+
+usrA iva svasarANi
+彼らは住居のごとく輝く.
+usrAH 形容詞usra(輝ける)男性複数主格
+iva 副詞(の如く)
+svasarANi 中性名詞svasara(住居)複数主格
+
+vizve devAso asridha ehi mAyAso adruhaH
+全ての確実なるものたちは来たれ.奪わざる者たちよ.
+asridhaH 形容詞asridh(確実なる)男性複数呼格
+ehi 来たれ
+mAyA 女性名詞(妖術)
+adruhaH a(否定)-druh(奪う)-aH(男性複数呼格)
+
+medhaM juSanta vahnayaH
+犠牲獣を喜ぶ御者たちよ.
+medhaM 男性名詞medha(犠牲獣)単数対格
+juSantaH 第六類動詞juS(喜ぶ)現在能動分詞男性複数呼格
+vahnayaH 男性名詞vahni(御者)男性複数呼格
+
+pAvakA naH sarasvatI vAjebhir vAjinIvatI
+駿馬を有するサラスヴァティーは気力によって我等を浄化する.
+pAvakA 形容詞pAvaka(浄化する)女性単数主格
+vAjebhiH 男性名詞vAja(気力)複数具格
+vAjinIvatI 形容詞vAjinIvat(駿馬を有する)女性単数主格
+
+yajJaM vaSTu dhiyAvasuH
+思考によって優れるものは祭祀を(受けろ?).
+vaSTu ?
+vasu 形容詞(よい)
+
+codayitrI sUnRtAnAM cetantI sumatInAm
+彼女は恩恵に富む者たちを励まし,慈悲心ある者たちを注目する.
+codayitrI 動詞cud(励ます)使役行為者女性単数主格
+sUnRtAnAm 女性名詞sUnRtA(恩恵に富む)複数属格
+cetantI 第一類動詞cit(注目する)現在能動分詞女性単数主格
+sumatInAm 女性名詞sumati(慈悲心)複数属格
+
+yajJam dadhe sarasvatI
+私は祭祀を置く.サラスヴァティーよ.
+dadhe 第三類動詞dhA(置く)直説法現在反射態一人称単数
+
+maho arNaH sarasvatI pracetayati ketunA
+威力の川を光によってサラスヴァティーは知らしめる.
+mahaH 中性名詞mahas(威力)単数対格
+arNaH 中性名詞arNas(川)単数対格
+pracetayati 動詞pra-cit(知る)使役現在能動態三人称単数
+ketunA 男性名詞ketu(光)単数具格
+
+dhiyo vizvA vi rAjati
+全ての思考は輝く.
+dhiyaH 女性名詞dhI(思考)複数主格
+vizvA 形容詞vizva(全ての)複数主格
+virAjati 第一類動詞vi-rAj(支配する.輝く)直説法現在能動態三人称単数
+
