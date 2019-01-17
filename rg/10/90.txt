@@ -1,0 +1,52 @@
+﻿sahasrazIrSA puruSaH sahasrAkSaH sahasrapAt
+千の頭である.人は,千の眼であり,千の足である.
+sahasrazIrSA 女性名詞sahasra-zIrSA(千の頭)単数主格
+puruSaH 男性名詞puruSa(人)単数主格
+sahasrAkSaH 男性名詞sahasra-akSa(千の眼)単数主格
+sahasrapAt 男性名詞sahasra-pad(千の足)単数主格
+
+sa bhUmiM vizvato vRtvAtyatiSThad dazAGgulam
+saH bhUmim vizvataH vRtvA atyatiSThat dazAGgulam
+彼は大地を覆いつくし,指十本分の幅の上に立った.
+bhUmim 女性名詞bhUmi(大地)単数対格
+vizvataH 副詞(四方に)
+vRtvA 動詞vR(包囲する)絶対詞
+atyatiSThat 動詞ati-sthA(対格の上に立つ)現在語幹atitiSTha直説法過去能動態三人称単数
+dazAGgulam 男性名詞daza-aGgula(指十本分の幅)単数対格
+
+puruSa evedaM sarvaM yad bhUtaM yacca bhavyam
+puruSaH eva idam sarvam yat bhUtam yat ca bhavyam
+この人こそ在りしものの,そして在るべきものの全てである.
+idam 近称代名詞中性単数主格
+bhUtam 動詞bhU(ある)過去受動分詞中性単数主格
+bhavyam 動詞bhU(ある)未来受動分詞中性単数主格
+
+utAmRtatvasyezAno yadannenAtirohati
+uta amRtatvasya IzAnaH yad annena atirohati
+また食べられたものによって成長する不死の支配者である.
+uta 副詞(また)
+amRtatvasya 中性名詞amRtatva(不死であること)単数属格
+IzAnaH 第二類動詞Iz(属格を支配する)現在能動分詞男性単数主格
+annena 動詞ad(食べる)過去受動分詞単数具格
+atirohati 第一類動詞ati-ruh(上に成長する)直説法現在能動態三人称単数
+
+etAvAnasya mahimAto jyAyAMzca pUruSaH
+etAvAn asya mahimA ataH jyAyAn ca pUruSaH
+このそれ程の威厳が,そしてこれよりも強いものが人である.
+etaVAn 形容詞etAvat(それ程の)男性単数主格
+asya 近称代名詞男性or中性単数属格
+mahimA 男性名詞mahiman(威厳)単数主格
+ataH 近称代名詞中性単数従格
+jyAyAn 形容詞jyAyas(より強い)男性単数主格
+
+pAdO 'sya vizvA bhUtAni tripAdasyAmRtaM divi
+pAdaH asya vizvA bhUtAni tripAt asya amRtam divi
+この足は全ての在りしもの,この三足は天における不死である.
+pAdaH 男性名詞pAda(足)単数主格
+asya 近称代名詞男性or中性単数属格
+vizvA 形容詞vizva(全ての)女性単数主格
+bhUtAni 動詞bhU(ある)過去受動分詞中性複数主格or対格or呼格
+tripAt 形容詞tripat(三足の)男性単数主格
+amRtam a(否定)-mR(死ぬ)-ta(過去受動分詞)-m(男性単数対格)
+divi 男性名詞div(天)単数処格
+
