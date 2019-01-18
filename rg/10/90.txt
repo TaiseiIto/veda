@@ -1,7 +1,7 @@
 ﻿sahasrazIrSA puruSaH sahasrAkSaH sahasrapAt
-千の頭である.人は,千の眼であり,千の足である.
+千の頭である.プルシャは,千の眼であり,千の足である.
 sahasrazIrSA 女性名詞sahasra-zIrSA(千の頭)単数主格
-puruSaH 男性名詞puruSa(人)単数主格
+puruSaH 男性名詞puruSa単数主格
 sahasrAkSaH 男性名詞sahasra-akSa(千の眼)単数主格
 sahasrapAt 男性名詞sahasra-pad(千の足)単数主格
 
@@ -16,14 +16,14 @@ dazAGgulam 男性名詞daza-aGgula(指十本分の幅)単数対格
 
 puruSa evedaM sarvaM yad bhUtaM yacca bhavyam
 puruSaH eva idam sarvam yat bhUtam yat ca bhavyam
-この人こそ在りしものの,そして在るべきものの全てである.
+このプルシャこそ在りしものの,そして在るべきものの全てである.
 idam 近称代名詞中性単数主格
 bhUtam 動詞bhU(ある)過去受動分詞中性単数主格
 bhavyam 動詞bhU(ある)未来受動分詞中性単数主格
 
 utAmRtatvasyezAno yadannenAtirohati
 uta amRtatvasya IzAnaH yad annena atirohati
-また食べられたものによって成長する不死の支配者である.
+また不死の支配者であり,食べられたものによって成長するものの全てでもある.
 uta 副詞(また)
 amRtatvasya 中性名詞amRtatva(不死であること)単数属格
 IzAnaH 第二類動詞Iz(属格を支配する)現在能動分詞男性単数主格
@@ -32,7 +32,7 @@ atirohati 第一類動詞ati-ruh(上に成長する)直説法現在能動態三�
 
 etAvAnasya mahimAto jyAyAMzca pUruSaH
 etAvAn asya mahimA ataH jyAyAn ca pUruSaH
-このそれ程の威厳が,そしてこれよりも強いものが人である.
+このそれ程の威厳が,そしてこれよりも強いものがプルシャである.
 etaVAn 形容詞etAvat(それ程の)男性単数主格
 asya 近称代名詞男性or中性単数属格
 mahimA 男性名詞mahiman(威厳)単数主格
@@ -41,7 +41,7 @@ jyAyAn 形容詞jyAyas(より強い)男性単数主格
 
 pAdO 'sya vizvA bhUtAni tripAdasyAmRtaM divi
 pAdaH asya vizvA bhUtAni tripAt asya amRtam divi
-この足は全ての在りしもの,この三足は天における不死である.
+その一本の足は全ての在りしもの,その三本の足は天における不死である.
 pAdaH 男性名詞pAda(足)単数主格
 asya 近称代名詞男性or中性単数属格
 vizvA 形容詞vizva(全ての)女性単数主格
@@ -49,4 +49,36 @@ bhUtAni 動詞bhU(ある)過去受動分詞中性複数主格or対格or呼格
 tripAt 形容詞tripat(三足の)男性単数主格
 amRtam a(否定)-mR(死ぬ)-ta(過去受動分詞)-m(男性単数対格)
 divi 男性名詞div(天)単数処格
+
+tripAd Urdhva udait puruSaH pAdo 'syehAbhavat punaH
+tripAt UrdhvaH udait puruSaH pAdaH asya iha abhavat punaH
+プルシャの上方の三本の足は上昇した.その一本の足はここに後から成った.
+UrdhvaH 形容詞Urdhva(上方の)男性単数主格
+udait 第二類動詞ud-i(上に行く)直説法過去能動態三人称単数
+punar 副詞((時間的もしくは空間的に)後に)
+
+tato vizvaM vyakrAmat sAzanAnazane abhi
+そこから全てがこちらへ進みだした.
+tataH 指示代名詞単数従格
+vyakrAmat 動詞vi-kram(歩む)直説法過去能動態三人称単数
+sAzanAnazane ?
+abhi 副詞(こちらへ)
+
+tasmAd virAD ajAyata virAjo adhi pUruSaH
+彼から別の王が生まれた.別の王より上にプルシャがある.
+tasmAt 指示代名詞男性単数従格
+virAT 男性名詞vi-rAj(別の王?)単数主格
+ajAyata 動詞jan(生まれる)直説法過去反射態三人称単数
+virAjaH vi-rAj単数従格
+adhi 副詞(上に)
+
+sa jAto atyaricyata pazcAd bhUmim atho puraH
+生まれた彼はその時大地を後方より前方へと超越した.
+saH 指示代名詞男性単数主格
+jAtaH 動詞jan(生まれる)過去受動分詞男性単数主格
+atyaricyata 第四類動詞ati-ric(超越する)直説法過去反射態三人称単数
+pazcAd 形容詞pazca(後方の)単数従格
+bhUmim 女性名詞bhUmi(大地)単数対格
+athaH 副詞(その時)
+puraH 副詞(前方に)
 
