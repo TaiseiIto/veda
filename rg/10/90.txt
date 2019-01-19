@@ -122,3 +122,45 @@ sAdhyA 動詞sAdh(達成する)未来受動分詞男性複数主格
 RSayaH 男性名詞RSi(詩人)複数主格
 ca ~もまた
 ye 関係代名詞男性複数主格
+
+tasmAd yajJAt sarvahutaH sambhRtaM pRSadAjyam
+この祭式から集められたふりかける乳油は全て捧げられた.
+tasmAt 代名詞三人称男性単数従格
+yajJAt 男性名詞yajJa(祭式)単数従格
+sarvahutaH sarva(全ての)-hutaH(動詞hu(捧げる)過去受動分詞男性単数主格)
+sambhRtam 動詞sam-bhR(集める)過去受動分詞中性単数対格
+pRSadAjyam pRSat(動詞pRS(ふりかける)現在能動分詞)-Ajyam(中性名詞Ajya(乳油)単数対格)
+
+pazUMs tAMz cakre vAyavyAn AraNyAn grAmyAMz ca ye
+その家畜たちを,車輪において,風に属する者たち,野に住める者たち,村に住める者たちをも.
+pazun 男性名詞pazu(家畜)複数対格
+tAn 代名詞三人称男性複数対格
+cakre 中性名詞cakra(車輪)単数処格
+vAyavyAn 形容詞vAyavya(風に属する)複数対格
+AraNyAn 形容詞AraNya(野生の)複数対格
+grAmyAn 形容詞grAmya(村に住める)複数対格
+ca ~もまた
+ye 関係代名詞男性複数主格
+
+tasmAd yajJAt sarvahuta RcaH sAmAni jajJire
+この祭式から讃歌と旋律は全て捧げられた.
+RcaH 女性名詞Rc(讃歌)複数対格
+sAmAni 中性名詞sAman(旋律)複数対格
+jajJire 形容詞jajJi(発芽する)?
+
+chandAMsi jajJire tasmAd yajus tasmAd ajAyata
+それから意志たちを.それから祭詞は生まれた.
+chandAMsi 中性名詞chandas(意志)複数主格
+yajuH 中性名詞yajus(祭詞)単数主格
+ajAyata 動詞jan(生まれる)直説法過去反射態三人称単数
+
+tasmAd azvA ajAyanta ye ke cobhayAdataH
+tasmAd azvAH ajAyanta ye ke ca ubhayAdataH
+それから馬たちが生まれた.両顎に歯を有するものからも.
+ubhayAdataH 形容詞ubhayAda(両顎に歯を有するもの)単数従格
+
+gAvo ha jajJire tasmAt tasmAj jAtA ajAvayaH
+牛たちもそれから.それから山羊と羊たちが生まれた.
+gAvaH 男性名詞go(牛)複数主格
+ha 直前の語を強調する
+ajAvayaH 中性名詞aja-avi(山羊と羊)複数主格.
