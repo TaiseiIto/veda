@@ -143,13 +143,13 @@ ca ~もまた
 ye 関係代名詞男性複数主格
 
 tasmAd yajJAt sarvahuta RcaH sAmAni jajJire
-この祭式から讃歌と旋律は全て捧げられた.
+この祭式から捧げられた全てのもの.讃歌と旋律は生まれた.
 RcaH 女性名詞Rc(讃歌)複数対格
 sAmAni 中性名詞sAman(旋律)複数対格
-jajJire 形容詞jajJi(発芽する)?
+jajJire 動詞jan(生まれる)完了反射態三人称複数
 
 chandAMsi jajJire tasmAd yajus tasmAd ajAyata
-それから意志たちを.それから祭詞は生まれた.
+それから意志たちは生まれた.それから祭詞は生まれた.
 chandAMsi 中性名詞chandas(意志)複数主格
 yajuH 中性名詞yajus(祭詞)単数主格
 ajAyata 動詞jan(生まれる)直説法過去反射態三人称単数
@@ -160,7 +160,7 @@ tasmAd azvAH ajAyanta ye ke ca ubhayAdataH
 ubhayAdataH 形容詞ubhayAda(両顎に歯を有するもの)単数従格
 
 gAvo ha jajJire tasmAt tasmAj jAtA ajAvayaH
-牛たちもそれから.それから山羊と羊たちが生まれた.
+牛たちもそれから生まれた.それから山羊と羊たちが生まれた.
 gAvaH 男性名詞go(牛)複数主格
 ha 直前の語を強調する
 ajAvayaH 中性名詞aja-avi(山羊と羊)複数主格.
