@@ -82,3 +82,43 @@ bhUmim 女性名詞bhUmi(大地)単数対格
 athaH 副詞(その時)
 puraH 副詞(前方に)
 
+yat puruSeNa haviSA devA yajJam atanvata
+プルシャを供物として神々は祭式を広げた.
+yat 関係代名詞中性単数主格or対格
+puruSeNa 男性名詞puruSa単数具格
+haviSA 中性名詞havis(供物)単数具格
+devAH 男性名詞deva(神)複数主格
+yajJam 男性名詞yajJa(祭式)単数対格
+atanvata 第八類動詞tan(広げる)直説法過去反射態三人称複数
+
+vasanto asyAsIdAjyaM grISma idhmaH zarad dhaviH
+vasantaH asya AsIt Ajyam grISmaH idhmaH zarat haviH
+春はこの(祭式の)乳油であった.夏は薪,秋は供物.
+vasantaH 男性名詞vasanta(春)単数主格
+asya 近称代名詞男性単数属格
+AsIt 第二類動詞as(ある)直説法過去能動態三人称単数
+Ajyam 中性名詞Ajya(乳油)単数主格
+grISma 男性名詞grISma(夏)単数主格
+idhmaH 男性名詞idhma(薪)単数主格
+zarat 女性名詞zarad(秋)単数主格
+haviH 中性名詞havis(供物)単数主格
+
+taM yajJaM barhiSi praukSan puruSaM jAtam agrataH
+その祭式を敷草において濯ぎ清めるものは生まれたプルシャを前方に.
+tam 代名詞三人称男性単数対格
+yajJaM 男性名詞yajJa(祭式)単数対格
+barhiSi 中性名詞barhis(敷草)単数処格
+praukSan 第一類動詞pra-ukS(濯ぐ)現在能動分詞男性単数主格
+puruSam 男性名詞puruSa単数対格
+jAtam 動詞jan(生まれる)過去受動分詞男性単数対格
+agrataH 副詞(前方に)
+
+tena devA ayajanta sadhyA RSayaz ca ye
+それによって神々は祭った.達成されるべき者たちも,詩人たちも.
+tena 代名詞三人称男性単数対格
+devAH 男性名詞deva(神)複数主格
+ayajanta 第一類動詞yaj(祭る)直説法過去反射態三人称複数
+sAdhyA 動詞sAdh(達成する)未来受動分詞男性複数主格
+RSayaH 男性名詞RSi(詩人)複数主格
+ca ~もまた
+ye 関係代名詞男性複数主格
