@@ -32,7 +32,7 @@ atirohati 第一類動詞ati-ruh(上に成長する)直説法現在能動態三�
 
 etAvAnasya mahimAto jyAyAMzca pUruSaH
 etAvAn asya mahimA ataH jyAyAn ca pUruSaH
-このそれ程の威厳が,そしてこれよりも強いものがプルシャである.
+彼の威厳はこれ程である.そしてこれよりも強いものがプルシャである.
 etaVAn 形容詞etAvat(それ程の)男性単数主格
 asya 近称代名詞男性or中性単数属格
 mahimA 男性名詞mahiman(威厳)単数主格
@@ -57,9 +57,10 @@ UrdhvaH 形容詞Urdhva(上方の)男性単数主格
 udait 第二類動詞ud-i(上に行く)直説法過去能動態三人称単数
 punar 副詞((時間的もしくは空間的に)後に)
 
-tato vizvaM vyakrAmat sAzanAnazane abhi
-そこから全てがこちらへ進みだした.
+tato viSvaG vyakrAmat sAzanAnazane abhi
+そこから,あらゆる方向からこちらへ進みだした.
 tataH 指示代名詞単数従格
+viSvaG 形容詞viSvac(あらゆる方向の)男性単数主格
 vyakrAmat 動詞vi-kram(歩む)直説法過去能動態三人称単数
 sAzanAnazane ?
 abhi 副詞(こちらへ)
@@ -164,3 +165,64 @@ gAvo ha jajJire tasmAt tasmAj jAtA ajAvayaH
 gAvaH 男性名詞go(牛)複数主格
 ha 直前の語を強調する
 ajAvayaH 中性名詞aja-avi(山羊と羊)複数主格.
+
+yat puruSaM vyadadhuH katidhA vyakalpayan
+彼らはプルシャを処理した.そのプルシャを,彼らは何としたのか.
+yat 関係代名詞中性単数対格
+puruSam 男性名詞puruSa単数対格
+vyadadhuH 第三類動詞vi-dhA(処理する)直説法過去能動態三人称複数
+katidhA 副詞(どこに)
+vyakalpayan 動詞vi-kLp(変化する)使役過去能動態三人称複数
+
+mukhaM kim asya kau bAhU kAv UrU pAdAv ucyete
+何が彼の口であったのか.両腕は何で,腿と足は何と言われるのか.
+mukham 中性名詞mukha(口)単数主格
+kim 疑問代名詞中性単数主格
+asya 近称代名詞男性単数属格
+kau 疑問代名詞男性両数主格
+bAhU 男性名詞bAhu(腕)両数主格
+kau 疑問代名詞男性両数主格
+UrU 男性名詞Uru(腿)両数主格
+pAdau 男性名詞pAd(足)両数主格
+ucyete 動詞vac(言う)直説法現在受動態三人称両数
+
+brAhmaNo 'sya mukham AsId bAhU rAjanyaH kRtaH
+バラモンは彼の口であった.腕は王族とされた.
+brAhmaNaH 男性名詞brAhmaNa(神官階級)男性単数主格
+asya 近称代名詞男性単数属格
+mukham 中性名詞mukha(口)単数主格
+AsIt 動詞as(ある)直説法過去能動態三人称単数
+bAhU 男性名詞bAhu(腕)両数主格
+rAjanyaH 形容詞rAjanya(王族の)男性単数主格
+kRtaH 動詞kR(なす)過去受動分詞男性単数主格
+
+UrU tad asya yad vaizyaH padbhyAM zUdro ajAyata
+彼の両腕はヴァイシヤであるものである.両足からシュードラが生まれた.
+UrU 男性名詞Uru(腿)両数主格
+tat 人称代名詞三人称中性単数主格
+asya 近称代名詞男性単数属格
+yad 関係代名詞中性単数主格
+vaizyaH 男性名詞vaizya(商人階級)単数主格
+padbhyAm 男性名詞pAd(足)両数従格
+zUdraH 男性名詞zUdra(奴隷階級)単数主格
+ajAyata 動詞jan(生まれる)直説法過去反射態三人称単数
+
+candramA manaso jAtaz cakSoH sUryo ajAyata
+月は心から生まれた.眼から太陽が生まれた.
+candramAH 男性名詞candramas(月)単数主格
+manasaH 中性名詞manas(心)単数従格
+jAtaH 動詞jan(生まれる)過去受動分詞男性単数主格
+cakSoH 男性名詞cakSu(眼)単数従格
+sUryaH 男性名詞sUrya(太陽)単数主格
+ajAyata 動詞jan(生まれる)直説法過去反射態三人称単数
+
+mukhAd indraz cAgniz ca prANAd vAyur ajAyata
+口からインドラとアグニが,息から風が生まれた.
+mukhAt 中性名詞mukha(口)単数従格
+indraH 男性名詞indra(雷神)単数主格
+ca ~もまた
+agniH 男性名詞agni(火神)単数主格
+prANAt 男性名詞prANa(息)単数従格
+vAyuH 男性名詞vAyu(風)単数主格
+ajAyata 動詞jan(生まれる)直説法過去反射態三人称単数
+
