@@ -276,13 +276,13 @@ dharmAni 中性名詞dharma(法)複数主格
 prathamAny 数詞eka(1)序数中性三人称複数
 Asan 第二類動詞as(ある)直説法過去能動態三人称複数
 
-te ha nAkaM mahimAnaH sacanta yatra pUrve sAdhyAH santi devAH
-威厳ある彼らは天空を所有した.前において神々は達成されるべし.
+te ha nAkaM mahimAnaH sacante yatra pUrve sAdhyAH santi devAH
+威厳ある彼らは天空を所有する.前において神々は達成されるべし.
 te 代名詞三人称男性複数主格
 ha 強調の副詞
 nAkam 男性名詞nAka(天空)単数対格
 mahimAnaH 男性名詞mahiman(威厳)複数主格
-sacanta 第一類動詞sac(所有する)直説法過去?反射態三人称複数
+sacanta 第一類動詞sac(所有する)直説法現在反射態三人称複数
 yatra 関係代名詞処格
 pUrve 形容詞pUrva(前の)男性単数処格
 sAdhyAH 動詞sAdh(達成する)未来受動分詞男性複数主格
