@@ -119,7 +119,7 @@ tena devA ayajanta sadhyA RSayaz ca ye
 tena 代名詞三人称男性単数対格
 devAH 男性名詞deva(神)複数主格
 ayajanta 第一類動詞yaj(祭る)直説法過去反射態三人称複数
-sAdhyA 動詞sAdh(達成する)未来受動分詞男性複数主格
+sAdhyAH 動詞sAdh(達成する)未来受動分詞男性複数主格
 RSayaH 男性名詞RSi(詩人)複数主格
 ca ~もまた
 ye 関係代名詞男性複数主格
@@ -226,3 +226,65 @@ prANAt 男性名詞prANa(息)単数従格
 vAyuH 男性名詞vAyu(風)単数主格
 ajAyata 動詞jan(生まれる)直説法過去反射態三人称単数
 
+nAbhyA AsId antarikSaM zIrSNo dyauH samavartata
+へそから穴があった.頭から天が作られた.
+nAbhyAH 女性名詞nAbhi(へそ)単数従格
+AsIt 第二類動詞as(ある)直説法過去能動態三人称単数
+antarikSam 中性名詞antarikSa(穴)単数主格
+zIrSNaH 中性名詞zIrSan(頭)単数属格
+dyauH 男性名詞div(天)単数主格
+samavartata 動詞sam-vRt(従格から作られる)直説法過去反射態三人称単数
+
+padbhyAM bhUmir dizaH zrotrAt tathA lokAn akalpayan
+両足から大地が,方角が耳から,彼らはこのように世界を整えさせた.
+padbhyAm 男性名詞pAd(足)両数従格
+bhUmiH 女性名詞bhUmi(大地)単数主格
+dizaH 女性名詞diz(方向)複数主格
+zrotrAt 中性名詞zrotra(耳)単数従格
+tathA 副詞(そのように)
+lokAn 男性名詞loka(世界)複数対格
+akalpayan 動詞kLp(整える)使役過去能動態三人称複数
+
+saptAsyAsan paridhayas triH sapta samidhaH kRtAH
+彼には7つの囲いがあった.7つの薪が作られた.
+sapta 数詞sapta(7)複数主格
+asya 近称代名詞男性単数属格
+Asan 第二類動詞as(ある)直説法過去能動態三人称複数
+paridhayaH 男性名詞paridhi(囲い)複数主格
+triH 3?
+samidhaH 形容詞samidh(薪)男性複数主格
+kRtAH 動詞kR(作る)過去受動分詞男性複数主格
+
+devA yad yajJaM tanvAnA abadhnan puruSaM pazum
+祭式を広げる神々はプルシャと家畜を縛った.
+devAH 男性名詞deva(神)複数主格
+yat 関係代名詞中性単数主格
+yajJam 男性名詞yajJa(祭式)単数対格
+tanvAnAH 動詞tan(広げる)現在反射分詞男性複数主格
+abadhnan 第九類動詞bandh(縛る)直説法過去能動態三人称複数
+puruSam 男性名詞puruSa単数対格
+pazum 男性名詞pazu(家畜)単数対格
+
+yajJena yajJam ayajanta devAs tAni dharmAni prathamAny Asan
+祭式によって祭式を神々は祭った.これらは最初の法であった.
+yajJena 男性名詞yajJa(祭式)単数具格
+yajJam 男性名詞yajJa(祭式)単数対格
+ayajanta 第一類動詞yaj(祭る)直説法過去反射態三人称複数
+devAH 男性名詞deva(神)複数主格
+tAni 代名詞三人称中性複数主格
+dharmAni 中性名詞dharma(法)複数主格
+prathamAny 数詞eka(1)序数中性三人称複数
+Asan 第二類動詞as(ある)直説法過去能動態三人称複数
+
+te ha nAkaM mahimAnaH sacanta yatra pUrve sAdhyAH santi devAH
+威厳ある彼らは天空を所有した.前において神々は達成されるべし.
+te 代名詞三人称男性複数主格
+ha 強調の副詞
+nAkam 男性名詞nAka(天空)単数対格
+mahimAnaH 男性名詞mahiman(威厳)複数主格
+sacanta 第一類動詞sac(所有する)直説法過去?反射態三人称複数
+yatra 関係代名詞処格
+pUrve 形容詞pUrva(前の)男性単数処格
+sAdhyAH 動詞sAdh(達成する)未来受動分詞男性複数主格
+santi 第二類動詞as(ある)直説法現在三人称複数
+devAH 男性名詞deva(神)複数主格
