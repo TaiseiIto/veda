@@ -1,5 +1,5 @@
 ﻿prAtar agniM prAtar indraM havAmahe prAtar mitrA varuNA prAtar azvinA
-朝早くアグニを,朝早くインドラを,我等は呼ぶ.朝早くミトラ,ヴァルナの二柱を,アシュヴィン双神を.
+朝早くアグニを,朝早くインドラを,我等は呼ぶ.朝早くミトラ,ヴァルナの二柱を,朝早くアシュヴィン双神を.
 prAtaH 副詞(朝早く)
 agnim 男性名詞agni単数対格
 indram 男性名詞indra単数対格
@@ -28,7 +28,7 @@ yaH 関係代名詞男性単数主格
 vidhartA 男性名詞vidhartR(支配者)単数主格
 
 Adhraz cid yaM manyamAnas turaz cid rAjA cid yaM bhagaM bhakSIty Aha
-弱いもの,強いものが考える精神,王の精神,それを食べるものと彼が言ったバガを
+彼に思いをはせる弱者の心,強者の心,王の心,そのバガを食べるものと彼が言った者を
 バガを考える弱い者の精神,強いものの精神,王の精神,彼はバガを食べると言った.
 AdhraH 形容詞Adhra(弱い)男性単数主格
 cit 女性名詞cit(精神)単数主格
