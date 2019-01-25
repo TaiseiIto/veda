@@ -1,0 +1,42 @@
+﻿prAtar agniM prAtar indraM havAmahe prAtar mitrA varuNA prAtar azvinA
+朝早くアグニを,朝早くインドラを,我等は呼ぶ.朝早くミトラ,ヴァルナの二柱を,アシュヴィン双神を.
+prAtaH 副詞(朝早く)
+agnim 男性名詞agni単数対格
+indram 男性名詞indra単数対格
+havAmahe 第一類動詞hve(呼ぶ)直接法現在反射態一人称複数
+mitrA 男性名詞mitra両数対格(varuNAとセットで両数)
+varuNA 男性名詞varuNa両数対格
+azvinA 男性名詞azvin両数対格
+
+prAtar bhagaM pUSaNaM brahmaNaspatiM prAtaH somam uta rudraM huvema
+朝早くバガを,プーシャンを,ブラフマナスパティを,朝早くソーマを,またルドラを我等呼ばんことを.
+bhagam 男性名詞bhaga単数対格
+pUSaNam 男性名詞pUSan単数対格
+brahmaNaspatim 男性名詞brahmaNaspati単数対格
+somam 男性名詞soma単数対格
+uta 副詞(~もまた)
+rudram 男性名詞rudra単数対格
+huvema 第六類動詞hve(呼ぶ)願望法能動態一人称複数
+
+prAtar jitaM bhagam ugraM huvema vayaM putram aditer yo vidhartA
+朝早く威力ある勝利者バガを我等呼ばんことを.支配者たるアディティの子を
+jitam 動詞ji(勝つ)過去受動分詞男性単数対格
+ugram 形容詞ugra(威力ある)男性単数対格
+putram 男性名詞putra(子)
+aditeH 女性名詞aditi単数属格
+yaH 関係代名詞男性単数主格
+vidhartA 男性名詞vidhartR(支配者)単数主格
+
+Adhraz cid yaM manyamAnas turaz cid rAjA cid yaM bhagaM bhakSIty Aha
+弱いもの,強いものが考える精神,王,それを食べるものと彼が言ったバガの精神
+バガを考える弱い者の精神,強いものの精神,王の精神,彼はバガを食べると言った.
+AdhraH 形容詞Adhra(弱い)男性単数主格
+cit 女性名詞cit(精神)単数主格
+yam 関係代名詞男性単数対格
+manyamAnaH 第四類動詞man(考える)現在反射分詞男性単数主格
+turaH 形容詞tura(強い)男性単数主格
+rAjA 男性名詞rAjan(王)単数主格
+bhakSI 形容詞bhakSin(食べている)男性単数主格
+iti ~であると
+Aha 動詞ah(言う)完了能動態三人称単数
+
