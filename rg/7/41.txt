@@ -39,3 +39,55 @@ bhakSI 形容詞bhakSin(食べている)男性単数主格
 iti ~であると
 Aha 動詞ah(言う)完了能動態三人称単数
 
+bhagapraNetar bhaga satyarAdho bhagemAM dhiyam udavadadan naH
+指導者バガよ,真実に達するバガよ,バガのそれを,詩想を我等に下す者よ.
+bhagapraNetaH 男性名詞bhaga-praNetR(指導者バガ)単数呼格
+bhagasatyarAdhaH 中性名詞bhaga-satya-rAdhas(真実に達するバガ)単数呼格
+bhagemAm 形容詞bhaga-idam(バガのこれ)女性単数対格
+dhiyam 女性名詞dhI(思考)単数対格
+udavadadan 第三類動詞ud-ava-dA(上から下に与える?)現在能動分詞男性単数呼格
+
+bhagapraNo janaya gobhir azvair bhagapranRbhir nRvantaH syAma
+古のバガは牛たち,馬たち,バガを満足させる男たちを生み出せ.我らは男らしくあらんことを.
+bhagapranaH bhaga-praNa(古のバガ?)単数主格
+janaya 動詞jan(生まれる)使役命令能動態二人称単数
+gobhiH 女性名詞go(牛)複数具格
+azvaiH 男性名詞azva(馬)複数具格
+bhagapranRbhiH 男性名詞bhaga-pra-nR(バガを満足させる男)複数具格
+nRvantaH 男性名詞nRvat(男らしい)複数主格
+syAma 第二類動詞as(~である)願望法能動態一人称複数
+
+utedAnIM bhagavantaH syAmota prapitva uta madhye ahnAm
+また今我等幸運たらんことを.朝においても中間の昼においても.
+uta 副詞(また)
+idAnIm 副詞(今)
+bhagavantaH 形容詞bhagavat(幸運な)男性複数主格
+syAma 第二類動詞as(~である)願望法能動態一人称複数
+naH 人称代名詞一人称複数為格
+prapitve 中性名詞?(朝)単数処格
+madhye 形容詞madhya(中央の)単数処格
+ahnAm 男性名詞ahna(昼)複数属格
+
+utoditA maghavan sUryasya vayaM devAnAM sumatau syAma
+また湧き出した者達よ,賜物に富める者よ,我ら太陽の,神々の者たらんことを.
+uta 副詞(また)
+uditAH 動詞ud(湧き出す)過去受動分詞男性複数呼格
+maghavan 男性名詞maghavat(賜物に富める者)単数呼格
+sUryasya 男性名詞sUrya(太陽)単数属格
+vayam 人称代名詞一人称複数主格
+devAnAm 男性名詞deva(神)複数属格
+sumatau ?
+syAma 第二類動詞as(~である)願望法能動態一人称複数
+
+bhaga eva bhagavAn astu devAs tena vayaM bhagavantaH syAma
+バガこそ幸運たれ.神々よ,彼によって我らは幸運たらんことを.
+bhagaH 男性名詞bhaga単数主格
+eva 副詞(~こそ)
+bhagavAn 形容詞bhagavat(幸運な)男性単数主格
+astu 第二類動詞as(~である)命令法能動態三人称単数
+devAH 男性名詞deva(神)複数呼格
+tena 人称代名詞男性単数具格
+vayam 人称代名詞一人称複数主格
+bhagavantaH 形容詞bhagavat(幸運な)男性複数主格
+syAma 第二類動詞as(~である)願望法能動態一人称複数
+
