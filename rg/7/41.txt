@@ -91,3 +91,58 @@ vayam 人称代名詞一人称複数主格
 bhagavantaH 形容詞bhagavat(幸運な)男性複数主格
 syAma 第二類動詞as(~である)願望法能動態一人称複数
 
+taM tvA bhaga sarva ijjohavIti sa no bhaga pura etA bhaveha
+彼を,汝を,バガよ,一切はしきりに強く呼ぶ.バガよ,彼はここに,我等の前に行く者となれ.
+tam 人称代名詞三人称男性単数対格
+tvA 人称代名詞二人称単数対格
+bhaga 男性名詞bhaga単数呼格
+sarvaH 形容詞sarva(全ての)男性単数主格
+ijjohavIti 動詞id-hve(強く呼ぶ)強意現在能動態三人称単数
+saH 人称代名詞三人称男性単数主格
+naH 人称代名詞一人称複数対格
+puraH 副詞(前方に)
+etA 動詞i(行く)行為者男性単数主格
+bhava 第一類動詞bhU(ある)命令法能動態二人称単数
+iha 副詞(ここに)
+
+samadhvarAyoSaso 'namanta dadhikrAveva zucaye padAya
+全き祭にウシャスたちは帰依した.ダディクラーヴァンのごとく清き足場に.
+samadhvarAya 男性名詞sam-adhvara(全き祭)単数為格
+uSasaH 女性名詞uSas複数主格
+anamanta 第一類動詞nam(対為属に帰依する)過去反射態三人称複数
+dadhikrAvA 男性名詞dadhikrAvan(朝日を人格化した聖馬)単数主格
+iva 副詞(~のごとく)
+zucaye 形容詞zuci(清い)男性単数為格
+padAya 男性名詞pada(足場)単数為格
+
+arvAcInaM vasuvidaM bhagaM no ratham iva azvA vAjina Avahantu
+こちらの,宝を発見するバガを私たちに,車を迅速な馬たちがそうするように彼らはもたらせ.
+arvAcInam 形容詞arvAcIna(こちらの)男性単数対格
+vasuvidam 形容詞vasuvid(宝を発見する)男性単数対格
+bhagam 男性名詞bhaga単数対格
+naH 人称代名詞一人称複数為格
+ratham 男性名詞ratha(車)単数対格
+iva 副詞(~のごとく)
+azvAH 男性名詞azva(馬)複数主格
+vAjinaH 形容詞vAjin(迅速な)男性複数主格
+Avahantu 第一類動詞A-vah(対にもたらす)命令法能動態三人称複数
+
+azvAvatIr gomatIr na uSaso vIravatIH sadam ucchantu bhadrAH
+馬に富める牛の多い場所,戦士に富める祝福されたウシャスらは我等を永遠に好め.
+azvAvatIH 形容詞azvAvat(馬に富める)女性複数主格
+gomatIH 女性名詞gomatI(牛の多い場所)複数主格
+naH 人称代名詞一人称複数主格
+uSasaH 女性名詞uSas複数主格
+vIravatIH 形容詞vIravat(戦士に富める)女性複格主格
+sadam 副詞(永遠に)
+ucchantu 動詞uc(好む)命令能動態三人称複数
+bhadrAH 形容詞bhadra(祝福された)女性複数主格
+
+ghRtaM duhAnA vizvataH prapItA yUyaM pAta
+濯がれた乳を搾る汝等はいたるところで飲み始めた.
+ghRtam 動詞ghR(濯ぐ)過去受動分詞中性単数
+duhAnAH 第二類動詞duh(乳を搾る)現在反射分詞女性複数主格
+vizvataH 副詞(至る所)
+prapItAH 動詞pra-pA(飲み始める)過去受動分詞女性複数主格
+yUyam 人称代名詞二人称複数主格
+pAta ?
