@@ -22,3 +22,28 @@ azvAH 男性名詞azva(馬)複数主格
 tvam 人称代名詞二人称単数主格
 vasudevayate 形容詞vasudevayat(善良な神に仕える)単数為格
 vaniSTHaH 動詞van(為格を助ける)最上級男性単数主格
+
+rAjeva hi janibhiH kSeSy evAva dyubhir abhi viduSkaviH san
+王の妻たちによるごとく汝は天たちによってこちらに住む.汝は用心深く賢い者である.
+rAjA 男性名詞rAjan(王)単数主格
+iva 不変辞(~のように)
+hi 不変辞(実に)
+janibhiH 女性名詞jani(妻)複数具格
+kSeSi 第二類動詞kSi(住む)現在能動態二人称単数
+eva 副詞(実に)
+ava 副詞(下に)
+dyubhiH 女性名詞div(天)複数具格
+abhi 副詞(こちらへ)
+viduSkaviH 形容詞vidus(形容詞(用心深い))-kavi(賢い)男性単数主格
+san 第二類動詞as(ある)現在能動分詞男性単数主格
+
+pizA giro maghavan gobhir azvais tvAyataH zizIhirAye asmAn
+言葉の装飾によって,賜物に富むものよ,牛たちによって,馬たちによって,汝を待つ我らを.
+pizA 女性名詞piz(装飾)単数具格
+giraH 女性名詞gir(言葉)単数従格or属格
+maghavan 形容詞maghavat(賜物に富む)男性単数呼格
+gobhiH 女性名詞go(牛)複数具格
+azvaiH 男性名詞azva(馬)複数具格
+tvAyataH 形容詞tvAyat(汝を待つ)複数対格
+zizIhirAye ?
+asmAn 人称代名詞一人称複数対格
