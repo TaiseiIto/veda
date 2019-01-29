@@ -1,0 +1,24 @@
+﻿tve ha yat pitarazcin na indra vizvA vAmA jaritAro asanvan
+父たちが,我等の心が,全ての左の祈願者たちが得たところの汝においてこそ,インドラよ.
+tve 人称代名詞二人称単数処格
+ha 強調の副詞
+yat 関係代名詞
+pitaraH 男性名詞pitR(父)複数主格
+cit 女性名詞cit(精神)単数主格
+naH 人称代名詞一人称複数属格
+indra 男性名詞indra単数呼格
+vizvAH 形容詞vizva(全ての)男性複数主格
+vAmAH 形容詞vAma(左の)男性複数主格
+jaritaraH 男性名詞jaritR(祈願者)複数主格
+asanvan 第五類動詞san(得る)過去能動態三人称複数
+
+tve gAvaH sudughAs tve hy azvAs tvaM vasudevayate vaniSTHaH
+汝において牛たちはよく乳を出す.汝において馬たちも,汝は善き神に仕える者を最もよく助ける者なり.
+tve 人称代名詞二人称単数処格
+gAvaH 女性名詞go(牛)複数主格
+sudughAH 形容詞sudugha(よく乳を出す)女性複数主格
+hi 不変辞(実に)
+azvAH 男性名詞azva(馬)複数主格
+tvam 人称代名詞二人称単数主格
+vasudevayate 形容詞vasudevayat(善良な神に仕える)単数為格
+vaniSTHaH 動詞van(為格を助ける)最上級男性単数主格
