@@ -1,4 +1,4 @@
-﻿tve ha yat pitarazcin na indra vizvA vAmA jaritAro asanvan
+﻿tve ha yat pitaraz cin na indra vizvA vAmA jaritAro asanvan
 父たちが,我等の心が,全ての左の祈願者たちが得たところの汝においてこそ,インドラよ.
 tve 人称代名詞二人称単数処格
 ha 強調の副詞
@@ -49,7 +49,7 @@ zizIhirAye ?
 asmAn 人称代名詞一人称複数対格
 
 imA u tvA paspRdhA nAso atra mandrA giro devayantIr upa sthuH
-これらを,汝を,競争によって.ここで快い言葉で神に仕える鼻たちを彼らは凌駕する.
+これらを,汝を,競争によって.ここで快い言葉で神に仕える鼻たちを彼らは凌駕した.
 imAH 近称代名詞女性複数対格
 u 不変辞(また)
 tvA 人称代名詞二人称単数対格
@@ -97,3 +97,48 @@ naH 人称代名詞一人称複数対格為格属格
 indraH 男性名詞indra単数主格
 sumatiM 女性名詞sumati(慈悲)単数対格
 gantvacha 男性名詞gantu(進路)-形容詞accha(明かな)単数呼格
+
+arNAMsi cit paprathAnA sudAsa indro gAdhAny akRNot supArA
+川を,増大する心は,スダース王の神インドラは浅くした.渡り易き川が.
+arNAMsi 中性名詞arNas(川)複数対格
+cit 女性名詞cit(心)単数主格
+paprathAnA 動詞prath(広げる)完了反射分詞女性単数主格
+sudAsaH 男性名詞sudAs(十王戦争に勝利してアーリア人諸部族におけるバラタ族トリツ族の覇権を確立したトリツ族の王スダース)単数属格
+indraH 男性名詞indra単数主格
+gAdhAni 形容詞gAdha(浅い)中性複数対格
+akRNot 第五類動詞kR(対格を対格となす)過去能動態三人称単数
+supArA 形容詞su(よく)pAra(渡る)女性単数主格
+
+zardhantaM zimyum ucathasya navyaH zApaM sindhUnAm akRNod azastIH
+戦いを挑むシムユ族を称賛に値する讃歌はシンドゥ川の忌むべき呪いとした.
+zardhantam 第一類動詞zRdh(挑戦する)現在能動分詞男性単数対格
+zimyum 男性名詞zimyu(シムユ族)単数対格
+ucathasya 中性名詞ucatha(讃歌)単数属格
+navyaH 動詞nu(称賛する)未来受動分詞男性単数主格
+zApam 男性名詞zApa(呪い)単数対格
+sindhUnAm 女性名詞sindhu(シンドゥ川)複数属格
+akRNot 第五類動詞kR(対格を対格となす)過去能動態三人称単数
+azastIH a(否定)-女性名詞zasti(称賛)複数対格
+
+puroDA it turvazo yakSur AsId rAye matsyAso nizitA apIva
+供えの餅はトゥルヴァシャ族,ヤクシャ族であった.マツヤ族たちは財産を熱望した.
+puroDAH 男性名詞puroDAz(米の粉で作った神に捧げる餅)単数主格(不規則変化)
+id 不変辞(実に)
+turvazaH 男性名詞turvaza(トゥルヴァシャ族)単数主格
+yakSuH 男性名詞yakSu(ヤクシュ族)単数主格
+AsIt 第二類動詞as(ある)過去能動態三人称単数
+rAye 男性名詞rai(財産)単数為格
+matsyAsaH 男性名詞matsyAs(マツヤ族?)複数主格
+nizitAH ni-動詞zA(鋭くする)過去受動分詞(為格を熱望する)男性複数主格
+apIva ?
+
+zruSTiM cakrur bhRgavo druhyavaz ca sakhA sakhAyam atarad viSUcoH
+ブリグ族らとドゥルヒウ族らは従順をなした.友において友は渡った.
+zruSTim 女性名詞zruSTi(従順)単数対格
+cakruH 動詞kR(対格となす)完了能動態三人称複数
+bhRgavaH 男性名詞bhRgu(ブリグ族)複数主格
+druhyavaH 男性名詞druhyu(ドゥルヒウ族)複数主格
+sakhA 女性名詞sakhA(友)単数主格
+sakhAyam 女性名詞sakhA(友)単数処格?
+atarat 第一類動詞tR(渡る)過去能動態三人称単数
+viSUcoH ?
