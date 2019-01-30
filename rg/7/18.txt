@@ -2,7 +2,7 @@
 父たちが,我等の心が,全ての左の祈願者たちが得たところの汝においてこそ,インドラよ.
 tve 人称代名詞二人称単数処格
 ha 強調の副詞
-yat 関係代名詞
+yat 関係代名詞男性単数対格
 pitaraH 男性名詞pitR(父)複数主格
 cit 女性名詞cit(精神)単数主格
 naH 人称代名詞一人称複数属格
@@ -40,10 +40,60 @@ san 第二類動詞as(ある)現在能動分詞男性単数主格
 pizA giro maghavan gobhir azvais tvAyataH zizIhirAye asmAn
 言葉の装飾によって,賜物に富むものよ,牛たちによって,馬たちによって,汝を待つ我らを.
 pizA 女性名詞piz(装飾)単数具格
-giraH 女性名詞gir(言葉)単数従格or属格
+giraH 女性名詞gir(言葉)単数属格
 maghavan 形容詞maghavat(賜物に富む)男性単数呼格
 gobhiH 女性名詞go(牛)複数具格
 azvaiH 男性名詞azva(馬)複数具格
 tvAyataH 形容詞tvAyat(汝を待つ)複数対格
 zizIhirAye ?
 asmAn 人称代名詞一人称複数対格
+
+imA u tvA paspRdhA nAso atra mandrA giro devayantIr upa sthuH
+これらを,汝を,競争によって.ここで快い言葉で神に仕える鼻たちを彼らは凌駕する.
+imAH 近称代名詞女性複数対格
+u 不変辞(また)
+tvA 人称代名詞二人称単数対格
+paspRdhA 形容詞pa(飲む?保護する?)-女性名詞spRdh(競争)単数具格
+nAsaH 女性名詞nAs(鼻)複数対格
+atra 近称代名詞単数処格
+mandrAH 形容詞mandra(快い)複数対格
+giraH 女性名詞gir(言葉)複数対格
+devayantIH 形容詞devayat(神に仕える)女性複数対格
+upa 副詞(また)
+sthuH 動詞sthA(立つ)語根アオリスト?能動態三人称複数
+
+arvAcI te pathyA rAya etu syAma te sumatAv indra zarman
+財産の道は汝の方に行け.我等汝の慈悲のもとにあらんことを.庇護者インドラよ.
+arvAcI 形容詞arvAJc(こちら側の)女性単数主格
+te 人称代名詞二人称単数属格
+pathyA 女性名詞pathyA(道)単数主格
+rAyaH 男性名詞rai(財産)単数属格
+etu 第二類動詞i(行く)命令法能動態三人称単数
+syAma 第二類動詞as(ある)願望法能動態一人称複数
+sumatau 女性名詞sumati(慈悲心)単数処格
+indra 男性名詞indra単数呼格
+zarman 中性名詞zarman(庇護)単数呼格
+
+dhenuM na tvA sUyavase 'dudhukSann upa brahmANi sasRje vasiSTHaH
+乳を出す汝をよい牧草地において祈祷は乳を搾らんとした.最善のものが投げ放った.
+dhenuM 形容詞dhenu(乳を出す)単数対格
+na 否定
+tvA 人称代名詞二人称単数対格
+sUyavase 形容詞sUyavasa(よい牧草を持つ)単数処格
+adudhukSan 第二類動詞duh(乳を搾る)意欲過去能動態三人称複数
+upa 副詞(また)
+brahmANi 中性名詞brahman(祈祷)複数主格
+sasRje 動詞sRj(放つ)完了反射態三人称単数
+vasiSTHaH 形容詞vasu(善い)最上級男性単数主格
+
+svAmin me gopatiM vizva AhA na indraH sumatiM gantvacha
+主よ,私の牛の主を全ては.我等のためインドラは慈悲を.進路を明らめる汝よ.
+svAmin 男性名詞svAmin(主人)単数呼格
+me 人称代名詞一人称単数為格属格
+gopatim 男性名詞gopati(牛の主)単数対格
+vizvaH 形容詞vizva(全ての)単数主格
+AhA 間投詞(命令)
+naH 人称代名詞一人称複数対格為格属格
+indraH 男性名詞indra単数主格
+sumatiM 女性名詞sumati(慈悲)単数対格
+gantvacha 男性名詞gantu(進路)-形容詞accha(明かな)単数呼格
