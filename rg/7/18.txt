@@ -142,3 +142,27 @@ sakhA 女性名詞sakhA(友)単数主格
 sakhAyam 女性名詞sakhA(友)単数処格?
 atarat 第一類動詞tR(渡る)過去能動態三人称単数
 viSUcoH ?
+
+A pakthAso bhalAnaso 'bhanantAlinaso viSANinaH zivAsaH
+またパクタース族,バラーナス族,アリナス族,ヴィシャーニン族らは宣戦布告した.
+A 副詞(また)
+pakthAsaH 男性名詞pakthAs(パクタース族)複数主格
+bhalAnasaH 男性名詞bhalAnas(バラーナス族)複数主格
+abhananta 第一類動詞bhan(宣言する)過去反射態三人称複数
+alinasaH 男性名詞alinas(アリナス族)複数主格
+viSANinaH 男性名詞viSANin(ヴィシャーニン族)複数主格
+zivAsaH シヴァース族
+
+A yo anayat sadhamA Aryasya gavyA tRtsubhyo ajagan yudhA nRRn
+また高貴な者を導いた飲み仲間は牝牛によってトリツ族らのために.彼らは兵士によって男たちに向かって行った.
+A 副詞(また)
+yaH 関係代名詞男性単数主格
+anayat 第一類動詞nI(導く)過去能動態三人称単数
+sadhamAH 男性名詞sadhamad(飲み仲間)単数主格
+Aryasya 形容詞(高貴な)男性単数属格
+gavyA 女性名詞gAvI(牝牛)単数具格
+tRtsubhyaH 男性名詞tRtsu(トリツ族)複数為格
+ajagan 第三類動詞gA(行く)過去能動態三人称複数
+yudhA 男性名詞yudh(兵士)単数具格
+nRRn 男性名詞nR(男)複数対格
+
