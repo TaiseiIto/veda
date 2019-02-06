@@ -154,7 +154,7 @@ viSANinaH 男性名詞viSANin(ヴィシャーニン族)複数主格
 zivAsaH シヴァース族
 
 A yo anayat sadhamA Aryasya gavyA tRtsubhyo ajagan yudhA nRRn
-また高貴な者を導いた飲み仲間は牝牛によってトリツ族らのために.彼らは兵士によって男たちに向かって行った.
+また高貴な者を導いた飲み仲間は牝牛によってトリツ族らのために.彼らは兵士と共に男たちに向かって行った.
 A 副詞(また)
 yaH 関係代名詞男性単数主格
 anayat 第一類動詞nI(導く)過去能動態三人称単数
@@ -165,4 +165,23 @@ tRtsubhyaH 男性名詞tRtsu(トリツ族)複数為格
 ajagan 第三類動詞gA(行く)過去能動態三人称複数
 yudhA 男性名詞yudh(兵士)単数具格
 nRRn 男性名詞nR(男)複数対格
+
+durAdhyo aditiM srAvayanto acetaso vijagRbhre paruSNIm
+怒れる愚かな者らはアディティに流させてパルシュニー川を分離してしまった.
+durAdhyaH 男性名詞durAdhi(憤怒)複数主格
+aditiM 女性名詞aditi単数対格
+srAvayantaH 動詞sru(流す)使役現在能動分詞男性複数主格
+acetasaH 形容詞acetas(愚かな)男性複数主格
+vijagRbhre 動詞vi-grabh(分かつ)完了反射態三人称複数
+paruSNIm 女性名詞paruSNI(パンジャーブ地方に流れる川.現在のravi川)単数対格
+
+mahnA vivyak pRthivIM patyamAnaH pazuSkavir azayac cAyamAnaH
+賢い家畜は威力によって大地を落とされ畏れて眠った.
+mahnA 中性名詞mahan(威力)単数具格
+vivyak ?
+pRthivIm 女性名詞pRthivI(大地)単数対格
+patyamAnaH 動詞pat(落ちる)現在受動分詞男性単数主格
+pazuSkaviH pazuS(家畜)-kavi(賢い)単数主格
+azayat 第一類動詞zI(寝る)過去能動態三人称単数
+cAyamAnaH 第一類動詞cAy(畏れる)現在反射分詞男性単数主格
 
