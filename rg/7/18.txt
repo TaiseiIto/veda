@@ -207,7 +207,7 @@ mAnuSe 形容詞mAnuSa(人間の)単数処格
 vadhrivAcaH 形容詞vadhri(去勢された)-女性名詞vAc(言葉)複数対格
 
 IyurgAvo na yavasAdagopA yathA kRtam abhi mitraM citAsaH
-去ってしまった牛たちが牧草を食べて牧者のいなくなることのないように,こちらに友となされた者を.
+去ってしまった牛たちが牧草を食べて牧者のいなくなることのないように,こちらに友となされた者を増長する者たちは.
 IyurgAvo Iyus(動詞I(行く)完了能動分詞)-女性名詞gau(牛)複数主格
 na 否定の不変辞
 yavasAdagopAH 形容詞yavasAd(牧草を食べる)-形容詞agopa(牧者のいない)複数主格
@@ -215,4 +215,64 @@ yathA 関係副詞(~のように)
 kRtam 動詞kR(なす)過去受動分詞男性単数対格
 abhi 副詞(こちらへ)
 mitram 男性名詞mitra(友)単数対格
-citAsaH ?
+citAsaH 動詞ci(蓄積する)過去受動分詞男性複数主格
+
+pRznigAvaH pRznini preSitAsaH zruSTiM cakrurniyuto rantayazca
+斑の牛たちはその斑において前に出て恭順を示した.快楽の組達も.
+pRznigAvaH 形容詞pRzni(斑の)-女性名詞gau(牛)複数主格
+pRznini 形容詞pRzni(斑の)中性単数処格
+preSitAsaH 動詞pra-iS(前に行く)過去受動分詞女性複数主格
+zruSTim 女性名詞zruSTi(親切)単数対格
+cakruH 動詞kR(作る)完了能動態三人称複数
+niyutaH 女性名詞niyut(組)複数主格
+rantayaH 女性名詞ranti(快楽)複数主格
+ca ~もまた
+
+ekaM ca yo viMzatiM ca zravasyA vaikarNayor janAn rAjA nyastaH
+ひとつの,そして彼は二十の,両称賛を,両ヴァイカルナ族の人々を,王は置かれた.
+ekam 数詞eka(1)単数対格
+ca ~もまた
+yaH 関係代名詞男性単数主格
+viMzatim 数詞viMzati(20)単数対格
+zravasyA 中性名詞zravasya(称賛)両数主格対格呼格
+vaikarNayoH 男性名詞vaikarNa(ヴァイカルナ族)両数属格処格
+janAn 男性名詞jana(人)複数対格
+rAjA 男性名詞rAjan(王)単数主格
+nyastaH 動詞ni-as(置く)過去受動分詞男性単数主格
+
+dasmo na sadman nizizAti barhiH zUraH sargamakRNod indra eSAm
+不可思議な者は,その場所よ,敷草を撒かない.勇敢な者が大軍をなした.インドラは追求する女を.
+dasmaH 形容詞dasma(不可思議な)男性単数主格
+na 否定の不変辞
+sadman 中性名詞sadman(場所)単数呼格
+nizizAti 第三類動詞ni-zA(撒く)現在能動態三人称単数
+barhiH 中性名詞barhis(敷草)単数対格
+zUraH 形容詞zUra(勇敢な)男性単数主格
+sargam 男性名詞sarga(大軍)単数対格
+akRnot 第五類動詞kR(なす)過去能動態三人称単数
+indraH 男性名詞indra単数主格
+eSAm 形容詞eSa(追求する)女性単数対格
+
+adha zrutaM kavaSaM vRddham apsv anu druhyuM nivRNag vajrabAhuH
+そこで名声を得て増大した聖仙カヴァシャを水に,またドゥルヒウ族をも雷の腕が投げ捨てた.
+adha 副詞(その時,そこで)
+zrutam 動詞zru(聞く)過去受動分詞男性単数対格
+kavaSam 男性名詞kavaSa(聖仙の名)単数対格
+vRddham 動詞vRdh(増大する)過去受動分詞男性単数対格
+apsu 女性名詞ap(水)複数処格
+anu 副詞(また)
+druhyum 男性名詞druhyu(ドゥルヒウ族)単数対格
+nivRNak 第七類動詞ni-vRj(投げ捨てる)過去能動態三人称単数(なぜかオーグメントのaが抜けている)
+vajrabAhuH 男性名詞vajra(雷)-男性名詞bAhu(腕)単数主格
+
+vRNAnA atra sakhyAya sakhyaM tvAyanto ye amadan nanu tvA
+ここで友情のために友情を選ぶ者たちが汝を待つ.汝を喜んだ彼らが.
+vRNAnAH 第九類動詞vR(選ぶ)現在反射分詞男性複数主格
+atra 近称代名詞単数処格
+sakhyAya 中性名詞sakhya(友情)単数為格
+sakhyam 中性名詞sakhya(友情)単数対格
+tvAyantaH 形容詞tvAyat(汝を待つ)男性複数主格
+ye 関係代名詞男性複数主格
+amadan 第一類動詞mad(喜ぶ)過去能動三人称複数
+nanu 不変辞(ない)
+tvA 近称代名詞二人称単数対格
