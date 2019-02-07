@@ -175,13 +175,44 @@ acetasaH 形容詞acetas(愚かな)男性複数主格
 vijagRbhre 動詞vi-grabh(分かつ)完了反射態三人称複数
 paruSNIm 女性名詞paruSNI(パンジャーブ地方に流れる川.現在のravi川)単数対格
 
-mahnA vivyak pRthivIM patyamAnaH pazuSkavir azayac cAyamAnaH
-賢い家畜は威力によって大地を落とされ畏れて眠った.
+mahnAvivyak pRthivIM patyamAnaH pazuSkavir azayac cAyamAnaH
+大地を囲った賢い家畜は威力によってその大地を落とされ畏れて眠った.
 mahnA 中性名詞mahan(威力)単数具格
-vivyak ?
+avivyak 第三類動詞vyac(含む)過去能動態三人称単数
 pRthivIm 女性名詞pRthivI(大地)単数対格
 patyamAnaH 動詞pat(落ちる)現在受動分詞男性単数主格
 pazuSkaviH pazuS(家畜)-kavi(賢い)単数主格
 azayat 第一類動詞zI(寝る)過去能動態三人称単数
 cAyamAnaH 第一類動詞cAy(畏れる)現在反射分詞男性単数主格
 
+IyurarthaM na nyarthaM paruSNIm Azuz ca ned abhipitvaM jagAma
+失敗ではない過ぎ去った目的,パルシュニー川,速い者も近づかなかった.
+Iyurartham Iyus(動詞I(行く)完了能動分詞)-artha(目的)単数対格
+na 否定の不変辞
+nyartham 中性名詞nyartha(失敗)単数対格
+paruSNIm 女性名詞paruSNI(パンジャーブ地方に流れる川.現在のravi川)単数対格
+AzuH 形容詞Azu(早い)男性単数主格
+ca net ~ですら~ない
+abhipitvam 中性名詞abhipitva(接近)単数対格
+jagAma 動詞gam(行く)完了能動態三人称単数
+
+sudAsa indraH sutukAn amitrAn arandhayan mAnuSe vadhrivAcaH
+スダース王へインドラは逃亡する敵どもを手渡させた.人間において去勢された言葉である彼らを.
+sudAse 男性名詞sudAs(スダース王)単数為格
+indraH 男性名詞indra単数主格
+sutukAn 形容詞sutuka(逃亡する)複数対格
+amitrAn 男性名詞amitra(敵)複数対格
+arandhayan 動詞randh(対格を為格の手に渡す)使役過去能動態三人称単数
+mAnuSe 形容詞mAnuSa(人間の)単数処格
+vadhrivAcaH 形容詞vadhri(去勢された)-女性名詞vAc(言葉)複数対格
+
+IyurgAvo na yavasAdagopA yathA kRtam abhi mitraM citAsaH
+去ってしまった牛たちが牧草を食べて牧者のいなくなることのないように,こちらに友となされた者を.
+IyurgAvo Iyus(動詞I(行く)完了能動分詞)-女性名詞gau(牛)複数主格
+na 否定の不変辞
+yavasAdagopAH 形容詞yavasAd(牧草を食べる)-形容詞agopa(牧者のいない)複数主格
+yathA 関係副詞(~のように)
+kRtam 動詞kR(なす)過去受動分詞男性単数対格
+abhi 副詞(こちらへ)
+mitram 男性名詞mitra(友)単数対格
+citAsaH ?
