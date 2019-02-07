@@ -69,14 +69,14 @@ madhye 形容詞madhya(中央の)単数処格
 ahnAm 男性名詞ahna(昼)複数属格
 
 utoditA maghavan sUryasya vayaM devAnAM sumatau syAma
-また湧き出した者達よ,賜物に富める者よ,我ら太陽の,神々の者たらんことを.
+また湧き出した者達よ,賜物に富める者よ,我ら太陽の,神々の慈悲のもとにあらんことを.
 uta 副詞(また)
 uditAH 動詞ud(湧き出す)過去受動分詞男性複数呼格
 maghavan 男性名詞maghavat(賜物に富める者)単数呼格
 sUryasya 男性名詞sUrya(太陽)単数属格
 vayam 人称代名詞一人称複数主格
 devAnAm 男性名詞deva(神)複数属格
-sumatau ?
+sumatau 女性名詞sumati(慈悲)単数処格
 syAma 第二類動詞as(~である)願望法能動態一人称複数
 
 bhaga eva bhagavAn astu devAs tena vayaM bhagavantaH syAma
