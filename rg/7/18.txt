@@ -271,8 +271,32 @@ vRNAnAH 第九類動詞vR(選ぶ)現在反射分詞男性複数主格
 atra 近称代名詞単数処格
 sakhyAya 中性名詞sakhya(友情)単数為格
 sakhyam 中性名詞sakhya(友情)単数対格
-tvAyantaH 形容詞tvAyat(汝を待つ)男性複数主格
+tvAyantaH 形容詞tvAyat(汝を待つ)男性複数主格H 
 ye 関係代名詞男性複数主格
 amadan 第一類動詞mad(喜ぶ)過去能動三人称複数
 nanu 不変辞(ない)
 tvA 近称代名詞二人称単数対格
+
+vi sadyo vizvAdRMhitAny eSAm indraH puraH sahasA sapta dardaH
+遠くに,直ちに,それらの全ての堅固なるものを,インドラは前方に力強さを以て,7つのdardを.
+vi 副詞(離れて)
+sadyaH 副詞(直ちに)
+vizvAdRMhitAni 形容詞vizvA(全ての)-動詞dRMh(堅固にする)過去受動分詞中性複数対格
+eSAm 近称代名詞中性複数属格
+indraH 男性名詞indra単数主格
+puraH 副詞(前方に)
+sahasA 形容詞sahas(力強い)単数具格
+sapta 数詞(7)
+dardaH 名詞dard?複数対格
+
+vyAnavasya tRtsave gayaM bhAg jeSma pUruM vidathe mRdhravAcam
+離れてアヌ族の家をトリツ族のために我等はぱちぱちと征服した.ののしるプール族を支配下に置いて.
+vi 副詞(離れて)
+Anavasya 名詞Anava(anuに属する)単数属格
+tRtsave 男性名詞tRtsu(トリツ族)単数為格
+gayam 男性名詞gaya(家)単数対格
+bhRk 擬音(火のぱちぱちなる音)
+jeSma 動詞ji(征服する)加増音のないsアオリスト能動態三人称複数
+pUrum 男性名詞pUru(プール族)単数対格
+vidathe 中性名詞vadatha(支配)単数処格
+mRdhravAcam 形容詞mRdhravAc(ののしる)単数対格
