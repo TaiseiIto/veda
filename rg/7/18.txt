@@ -133,11 +133,11 @@ nizitAH ni-動詞zA(鋭くする)過去受動分詞(為格を熱望する)男性
 apIva ?
 
 zruSTiM cakrur bhRgavo druhyavaz ca sakhA sakhAyam atarad viSUcoH
-ブリグ族らとドゥルヒウ族らは従順をなした.友において友は渡った.
+ブリグ族らとドゥルヒュ族らは従順をなした.友において友は渡った.
 zruSTim 女性名詞zruSTi(従順)単数対格
 cakruH 動詞kR(対格となす)完了能動態三人称複数
 bhRgavaH 男性名詞bhRgu(ブリグ族)複数主格
-druhyavaH 男性名詞druhyu(ドゥルヒウ族)複数主格
+druhyavaH 男性名詞druhyu(ドゥルヒュ族)複数主格
 sakhA 女性名詞sakhA(友)単数主格
 sakhAyam 女性名詞sakhA(友)単数処格?
 atarat 第一類動詞tR(渡る)過去能動態三人称単数
@@ -254,14 +254,14 @@ indraH 男性名詞indra単数主格
 eSAm 形容詞eSa(追求する)女性単数対格
 
 adha zrutaM kavaSaM vRddham apsv anu druhyuM nivRNag vajrabAhuH
-そこで名声を得て増大した聖仙カヴァシャを水に,またドゥルヒウ族をも雷の腕が投げ捨てた.
+そこで名声を得て増大した聖仙カヴァシャを水に,またドゥルヒュ族をも雷の腕が投げ捨てた.
 adha 副詞(その時,そこで)
 zrutam 動詞zru(聞く)過去受動分詞男性単数対格
 kavaSam 男性名詞kavaSa(聖仙の名)単数対格
 vRddham 動詞vRdh(増大する)過去受動分詞男性単数対格
 apsu 女性名詞ap(水)複数処格
 anu 副詞(また)
-druhyum 男性名詞druhyu(ドゥルヒウ族)単数対格
+druhyum 男性名詞druhyu(ドゥルヒュ族)単数対格
 nivRNak 第七類動詞ni-vRj(投げ捨てる)過去能動態三人称単数(なぜかオーグメントのaが抜けている)
 vajrabAhuH 男性名詞vajra(雷)-男性名詞bAhu(腕)単数主格
 
@@ -300,3 +300,26 @@ jeSma 動詞ji(征服する)加増音のないsアオリスト能動態三人称
 pUrum 男性名詞pUru(プール族)単数対格
 vidathe 中性名詞vadatha(支配)単数処格
 mRdhravAcam 形容詞mRdhravAc(ののしる)単数対格
+
+ni gavyavo anavo druhyavaz ca SaSTiH zatA suSupuH SaTsahasrA
+そして家畜を欲するアヌ族とドゥルヒュ族ら6160人は眠ってしまった.
+ni 副詞(下に,中に,後方に)
+gavyavaH 形容詞gavyu(家畜を欲する)男性複数主格
+anavaH 男性名詞anu(アヌ族)複数主格
+druhyavaH 男性名詞druhyu(ドゥルヒュ族)複数主格
+SaSTiH 数詞(60)
+zatA 数詞(100)
+suSupuH 動詞svap(眠る)完了能動態三人称複数
+SaTsahasrA 数詞(6000)
+
+SaSTir vIrAso adhi SaD duvoyu vizved indrasya vIryA kRtAni
+66人の崇拝する戦士らはインドラの勇気によって.
+SaSTiH 数詞(60)
+vIrAsaH 男性名詞vIra(戦士)複数主格
+adhi 副詞(上に)
+SaT 数詞(6)
+duvoyu 形容詞duvoyu(崇拝する)
+vizvet 第二類動詞vi-zvA(膨張する)願望法能動態三人称単数
+indrasya 男性名詞indra単数属格
+vIryA 中性名詞vIrya(勇気)?
+kRtAni 動詞kR(なす)過去受動分詞中性複数主格
