@@ -323,3 +323,24 @@ vizvet 第二類動詞vi-zvA(膨張する)願望法能動態三人称単数
 indrasya 男性名詞indra単数属格
 vIryA 中性名詞vIrya(勇気)?
 kRtAni 動詞kR(なす)過去受動分詞中性複数主格
+
+indreNaite tRtsavo veviSANA Apo na sRSTA adhavanta nIcIH
+インドラによって彼ら征服者たるトリツ族は投げ飛ばされなかった水を下方へ拭き払った.
+indreNa 男性名詞indra単数具格
+ete 近称代名詞三人称男性複数主格
+tRtsavaH 男性名詞tRtsu(トリツ族)複数主格
+veviSANAH 動詞viS(征服する)強意現在反射分詞男性複数主格
+ApaH 女性名詞ap(水)複数対格
+na 否定の不変辞
+sRSTAH 動詞sRj(投げ飛ばす)過去受動分詞女性複数対格
+adhavanta 第一類動詞dhAv(拭く)過去反射態三人称複数
+nIcIH 形容詞nyaJc(下方への)女性複数対格
+
+durmitrAsaH prakalavinmimAnA jahur vizvAni bhojanA sudAse
+友情なき無知な計測者たちも,牛も,全てはスダース王の食事である.
+durmitrAsaH 形容詞durmitra(友情なき)男性複数主格
+prakalavin-mimAnAH 形容詞prakalavid(無知な)-第二類動詞mA(計る)現在反射分詞男性複数主格
+jahuH 男性名詞jahu(牛)単数主格
+vizvAni 形容詞vizva(全ての)中性複数主格
+bhojanAH 形容詞bhojana(食事)男性複数主格
+sudAse 男性名詞sudAs単数為格
